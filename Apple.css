@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#navbar1{
+    width: 100%;
+    height: 6vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    position: fixed;
+}
+
+
+#icon1{
+    margin-left: 16%;
+    font-size: 18px;
+    margin-top: -2px;
+    color: black;
+}
+
+#icon1:hover{
+    cursor: pointer;
+}
+
+#heading1{
+    margin-left: 3%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+}
+
+#heading1:hover{
+    cursor: pointer;
+}
+
+#heading2{
+    margin-left: 2.5%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+}
+
+#heading2:hover{
+    cursor: pointer;
+}
+
+#heading3{
+    margin-left: 2.5%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+}
+
+#heading3:hover{
+    cursor: pointer;
+}
+
+#heading4{
+    margin-left: 2.5%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+}
+
+#heading4:hover{
+    cursor: pointer;
+}
+
+#heading5{
+    margin-left: 2.5%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+}
+
+#heading5:hover{
+    cursor: pointer;
+}
+
+#heading6{
+    margin-left: 2.5%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+}
+
+#heading6:hover{
+    cursor: pointer;
+}
+
+#heading7{
+    margin-left: 2.5%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+}
+
+#heading7:hover{
+    cursor: pointer;
+}
+
+#heading8{
+    margin-left: 2.5%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+    word-spacing: 2px;
+}
+
+#heading8:hover{
+    cursor: pointer;
+}
+
+#heading9{
+    margin-left: 2.5%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+}
+
+#heading9:hover{
+    cursor: pointer;
+}
+
+#heading10{
+    margin-left: 2.5%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+}
+
+#heading10:hover{
+    cursor: pointer;
+}
+
+#heading11{
+    margin-left: 2.5%;
+    font-size: 14px;
+    font-weight: 10;
+    color: black;
+}
+
+#heading11:hover{
+    cursor: pointer;
+}
+
+#icon2{
+    margin-left: 2%;
+    font-size: 14px ;
+    color: black;
+}
+
+#icon2:hover{
+    cursor: pointer;
+}
+
+#icon3{
+    margin-left: 2%;
+    font-size: 14px;
+    color:black;
+}
+
+#icon3:hover{
+    cursor: pointer;
+}
+
+#icon4{
+    margin-left: 2%;
+    font-size: 14px;
+    color: black;
+    display: none;
+}
+
+#icon4:hover{
+    cursor: pointer;
+}
+
+
+
+@media(max-width: 1025px){
+    #heading1{
+        display: none;
+    }
+    #heading2{
+        display: none;
+    }
+    #heading3{
+        display: none;
+    }
+    #heading4{
+        display: none;
+    }
+    #heading5{
+        display: none;
+    }
+    #heading6{
+        display: none;
+    }
+    #heading7{
+        display: none;
+    }
+    #heading8{
+        display: none;
+    }
+    #heading9{
+        display: none;
+    }
+    #heading10{
+        display: none;
+    }
+    #heading11{
+        display: none;
+    }
+
+    #icon4{
+        display: inline;
+    }
+
+    #icon2{
+        margin-left: 73%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#div1{
+    width: 100%;
+    height: 104vh;
+    border: 3px,solid,red;
+}
+
+
+
+
+#image1{
+    width: 100%;
+    height: 100vh;
+}
+
